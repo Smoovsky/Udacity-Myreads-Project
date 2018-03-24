@@ -10,7 +10,7 @@ To install all dependencies and run dev server
 * start the development server with `npm start`
 
 ## Change since last code review
-
+Fix smallThumbnail
 
 ## What You're Getting
 ```bash
