@@ -9,8 +9,11 @@ To install all dependencies and run dev server
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-## Change since last code review
-Fix smallThumbnail
+## Changes since last code review
+1. Replace missing thumbnail with a default images
+2. Book is now an independent component
+3. Update search page only if query is not an empty String
+4. Render empty search result if query is not one of desired terms
 
 ## What You're Getting
 ```bash
